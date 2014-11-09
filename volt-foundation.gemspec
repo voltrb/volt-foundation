@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.version       = version
   spec.authors       = ["danReynolds"]
   spec.email         = ["fnetma2@gmail.com"]
-  spec.summary       = %q{TFoundation for the volt framework}
+  spec.summary       = %q{Foundation for the volt framework}
   spec.homepage      = ""
   spec.license       = "MIT"
 
